@@ -2,7 +2,7 @@
 # ③ pythonを使った特許文書の教師なし学習による可視化と教師あり学習による分類・スクリーニング
 
 ## 使い方
-Googleアカウントを取得してGoogle Driveが使えるようになっていることを前提としています。
+Googleアカウントを取得してGoogle Driveが使えるようになっていることを前提としています。\n
  /content/drive/My Drive/Colab Notebook/20200302
  /content/drive/My Drive/data
  /content/drive/My Drive/trend
