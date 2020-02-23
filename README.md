@@ -3,8 +3,7 @@
 
 ## 使い方
 Googleアカウントを取得してGoogle Driveが使えるようになっていることを前提としています。
-google driveの下に```Colab Notebook/20200302```　```data```　```trend```　```word_cloud```
-```network```
+google driveの下に```Colab Notebook/20200302```　```data```　```trend```　```word_cloud```　```network```
 の各フォルダがないことを確認してから実行してください。
 
 １．setup.ipynbをクリックして開きます。
