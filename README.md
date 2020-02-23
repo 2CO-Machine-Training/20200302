@@ -3,17 +3,11 @@
 
 ## 使い方
 Googleアカウントを取得してGoogle Driveが使えるようになっていることを前提としています。
-
 /content/drive/My Drive/Colab Notebook/20200302
-
 /content/drive/My Drive/data
-
 /content/drive/My Drive/trend
-
 /content/drive/My Drive/word_cloud
-
 /content/drive/My Drive/network
-
 のフォルダがないことを確認してから実行してください。
 
 １．setup.ipynbをクリックして開きます。
