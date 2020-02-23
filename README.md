@@ -3,20 +3,24 @@
 
 ## 使い方
 Googleアカウントを取得してGoogle Driveが使えるようになっていることを前提としています。
+/content/drive/My Drive/Colab Notebook/20200302
+/content/drive/My Drive/data
+/content/drive/My Drive/trend
+/content/drive/My Drive/word_cloud
+/content/drive/My Drive/network
+のフォルダがないことを確認してから実行してください。
 
-１． [Colaboratory へようこそ](https://colab.research.google.com/notebooks/welcome.ipynb)　からgoogle colaboratpory を開きます。
+１．setup.ipynbをクリックして開きます。
   
-２．ファイル > ノートブックを開く...　ctrl+O で GitHubをクリック
+２．Open in Colab をクリックしてノートブックを開きます。
 
-３．検索欄に https://github.com/2CO-Machine-Training/20200302 を入力してノートブック setup.ipynb を探します。
+３．ドライブに保存せずにそのまま実行します。
 
-４．setup.ipynb をクリックして新しいタブで開きます。
+４．google driveにアクセスするために、Go to this URL in a browser: のリンクをクリックしてアカウント認証し、コピーしたコードを　Enter your authorization code: 欄に入力してください。
 
-５．setup.ipynb を実行します。警告が出ますが、このまま実行してください。
+５．ファイルがコピーされます。
 
-６．google driveにアクセスするために、Go to this URL in a browser: のリンクをクリックしてアカウント認証し、コピーしたコードを　Enter your authorization code: 欄に入力してください。
-
-７．Google Drive 上に Colab Notebooks\20200302 というフォルダができていれば成功です。
+６．google drive 上に Colab Notebooks\20200302 というフォルダができていれば成功です。
 
 ## はじめに
 特許データベースからダウンロードしたExcelファイルから時系列パテントマップを作成します。
